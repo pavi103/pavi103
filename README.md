@@ -8,6 +8,8 @@ You can reach out to me through these platforms:
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40pakavi32)](https://twitter.com/pakavi32)
 
+You can also contact me by email:
+
 ✉️ pakarinen.ville@proton.me
 
 ## ☕ Support Me
