@@ -6,11 +6,18 @@ I'm AI and cyber security enthusiast from Finland, who is also passionate about 
 
 You can reach out to me through these platforms:
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40pakavi32)](https://twitter.com/pakavi32)
+<a href="https://twitter.com/pakavi32" target="blank">
+  <img height='22.5' align="center" src="https://img.shields.io/badge/@pakavi32-000000?style=for-the-badge&logo=x&logoColor=FFF" /> 
+<br />
+<br />
 
-You can also contact me by email:
-
-✉️ pakarinen.ville@proton.me
+<a href="https://www.reddit.com/user/Stock-Fan9312/" target="blank">
+  <img height='22.5' align="center" src="https://img.shields.io/badge/@StockFan9312-b5352b?style=for-the-badge&logo=reddit&logoColor=FFF" /> 
+<br />
+<br />
+  
+<a href="mailto:pakarinen.ville@proton.me" target="blank">
+  <img height='22.5' align="center" src="https://img.shields.io/badge/pakarinen.ville@proton.me-505264?style=for-the-badge&logo=proton&logoColor=8a90c7" /> 
 
 ## ☕ Support Me
 
