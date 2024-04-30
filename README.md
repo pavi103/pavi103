@@ -17,8 +17,8 @@ You can reach out to me through these platforms:
 <br />
 
 <a href="https://twitter.com/pakavi32" target="blank">
-  <img height='22.5' align="center" src="https://img.shields.io/badge/@pakavi32-000000?style=for-the-badge&logo=x&logoColor=FFF" /> 
-
+  <img height='22.5' align="center" src="https://img.shields.io/badge/@pakavi32-000000?style=for-the-badge&logo=x&logoColor=FFF"> 
+<a/> 
 
 ## ☕ Support Me
 
