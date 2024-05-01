@@ -2,6 +2,10 @@
 
 I'm AI and cyber security enthusiast from Finland, who is also passionate about software development.
 
+## 💻 Projects
+
+Coming soon...
+
 ## 📫 How to reach me
 
 You can reach out to me through these platforms:
